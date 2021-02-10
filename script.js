@@ -1,5 +1,5 @@
-function buttonOn() {
-  document.getElementById("textExample").innerHTML = "This is the new text!"
+function buttonon() {
+  document.getElementById("textexample").innerHTML = "This is the new text!"
 }
 
 function timeChange () {
